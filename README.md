@@ -3,7 +3,7 @@
 <div align="center">
   <samp>
     <b>
-      システムアナリスト
+      フルスタック開発者
       <br>
       Shalom, my name is Léo!
       <br>
