@@ -5,7 +5,7 @@
     <b>
       フルスタック開発者
       <br>
-      Shalom, my name is Léo!
+      Hi, my name is Léo!
       <br>
 </div>
 <div align="center">
